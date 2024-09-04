@@ -2,9 +2,9 @@
 
 With an extensive background in Data Engineering and AI space, I bring solid technical expertise in combination with analytical skills, problem solving skills to solve complex real world problems. I have been through several stages of career developing various kinds of software solutions using various programming languages. I also helped new team members get onboard quickly by creating onboarding video sessions for them to get familiar with the tools and technologies being used at one of my previous positions.
 
-## Techincal Skills 🛠️
+## Technical Skills 🛠️
 
-- **Languages:** Java, Scala, Python, Javascript, Typescript
+- **Languages:** Java, Scala, Python, Go, Javascript, Typescript
 - **Frameworks & Libraries:**: Apache Spark, Spring Boot, Hibernate, React, Node.js, Django, Flask
 - **Devops Tools:** Terraform, Docker, Kubernetes, Github Actions, Gitlab CI, Jenkins
 - **Cloud Platforms:** GCP, AWS
