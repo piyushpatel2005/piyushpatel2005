@@ -5,10 +5,10 @@ With an extensive background in Data Engineering and AI space, I bring solid tec
 ## Technical Skills 🛠️
 
 - **Languages:** Java, Scala, Python, Go, Javascript, Typescript
-- **Frameworks & Libraries:**: Apache Spark, Spring Boot, Hibernate, React, Node.js, Django, Flask
+- **Frameworks & Libraries:**: Apache Spark, Apache Beam, Flink, Spring Boot, Hibernate, React, Node.js, Django, Flask
 - **Devops Tools:** Terraform, Docker, Kubernetes, Github Actions, Gitlab CI, Jenkins
 - **Cloud Platforms:** GCP, AWS
-- **Data Engineering Frameworks & Databases:** BigQuery, Hive, Presto, MySQL, MongoDB, Apache Spark, Kafka, Spark Streaming, Flink, Apache Beam, Dataflow, Airflow, Oozie, Cloudera, YARN, Sqoop
+- **Data Engineering Frameworks & Databases:** BigQuery, Snowflake, Hive, Presto, MySQL, MongoDB, Apache Spark, Databricks, Kafka, Spark Streaming, Flink, Apache Beam, Dataflow, Airflow, Oozie, Cloudera, YARN, Sqoop
 - **Data Science & AI:** Proficient in Machine Learning concepts and Data analysis
 
 ## Projects 📚
