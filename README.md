@@ -5,11 +5,11 @@ With an extensive background in Data Engineering and AI space, I bring solid tec
 ## Technical Skills 🛠️
 
 - **Languages:** Java, Scala, Python, Go, Javascript, Typescript
-- **Frameworks & Libraries:**: Apache Spark, Apache Beam, Flink, Spring Boot, Hibernate, React, Node.js, Django, Flask
+- **Frameworks & Libraries:**: Apache Spark, Apache Beam, Flink, Spring Boot, Hibernate, React, Node.js, Django, Flask, FastAPI
 - **Devops Tools:** Terraform, Docker, Kubernetes, Github Actions, Gitlab CI, Jenkins
 - **Cloud Platforms:** GCP, AWS
 - **Data Engineering Frameworks & Databases:** BigQuery, Snowflake, Hive, Presto, MySQL, MongoDB, Apache Spark, Databricks, Kafka, Spark Streaming, Flink, Apache Beam, Dataflow, Airflow, Oozie, Cloudera, YARN, Sqoop
-- **Data Science & AI:** Proficient in Machine Learning concepts and Data analysis
+- **Data Science & AI:** Proficient in Machine Learning concepts, Data Analytics, NLP and Image Processing
 
 ## Projects 📚
 
@@ -18,7 +18,7 @@ To Do
 ## Leadership & Management 💼
 
 - **Public Speaking:** I run free educational Youtube channel with over 5k subscribers helping them learn tech skills while also contributing to open source community.
-- **Training:** Provided technical sessions of upto 3.5 hours for new team members to easily onboard them with all the available tools. This also provided a brief guide on those tools by giving them an overview of all those frameworks and tools.
+- **Training:** Provided technical sessions of upto 4 hours for new team members to easily onboard them with all the available tools at my previous workplace. This made them more comfortable having some knowledge of the technologies and toolsets they have at their exposure in order to be successful in their tasks.
 
 ## Interests 🎶
 
@@ -32,6 +32,7 @@ To Do
 - Bachelor's degree in Electrical and Computer Engineering
 - Postgraduate Diploma in Business Analysis
 - Bunch of Specializations from Coursera, Udemy, Udacity
+- GCP Certified Professional Solutions Architect
 - Azure Fundamental certification
 - GCP Professional Data Engineering Certification
 
